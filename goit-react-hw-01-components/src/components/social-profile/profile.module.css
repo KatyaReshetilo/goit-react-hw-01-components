@@ -1,0 +1,14 @@
+.avatar {
+  height: 70px;
+}
+.description {
+  text-align: center;
+}
+.profile {
+  margin-left: 70px;
+  border: outset #f33;
+  width: 200px;
+}
+.label {
+  margin-right: 5px;
+}

@@ -1,0 +1,29 @@
+.item {
+  list-style: none;
+  display: flex;
+  margin-bottom: 10px;
+  border: 2px dotted;
+  width: 200px;
+  align-items: center;
+}
+.statusOn {
+  padding: 25px;
+  margin-right: 15px;
+  margin-left: 7px;
+  border-radius: 50%;
+  background-color: green;
+}
+.statusOf {
+  padding: 25px;
+  margin-right: 15px;
+  margin-left: 7px;
+  border-radius: 50%;
+  background-color: red;
+}
+.name {
+  margin-left: 10px;
+  font-style: italic;
+  font-size: 15px;
+}
+.friendList {
+}
